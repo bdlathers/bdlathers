@@ -1,4 +1,4 @@
-<h1>Welcome to my project showcase! I'm Brendan Lathers, an aspiring <br/><a href="https://github.com/bdlathers">IT Professional</a>!</h1>
+<h1>Welcome to my project showcase! I'm Brendan Lathers, an aspiring <a href="https://www.linkedin.com/in/brendanlathers/">IT Professional</a>!</h1>
 
 <h2>💾🖥 IT Projects🖥💾 </h2>
 
