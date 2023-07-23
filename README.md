@@ -1,9 +1,12 @@
-- 👋 Hi, I’m @bdlathers
-- 👀 I’m interested in information security.
-- 🌱 I’m currently learning Python and SQL.
-- 📫 Reach me at bdlathers@gmail.com
+<h1>Welcome to my project showcase! I'm Brendan Lathers, an aspiring <br/><a href="https://github.com/bdlathers">IT Professional</a>!</h1>
 
-<!---
-bdlathers/bdlathers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h2>💾🖥 IT Projects🖥💾 </h2>
+
+- <b>Placeholder 1</b>
+  - [Placeholder 1](https://www.google.com/)
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://linkedin.com/in/joshmadakor
