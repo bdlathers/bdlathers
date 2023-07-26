@@ -2,8 +2,8 @@
 
 <h2>💾🖥 IT Projects🖥💾 </h2>
 
-- <b>Placeholder 1</b>
-  - [Placeholder 1](https://www.google.com/)
+- <b>Databases and Networking</b>
+  - [Active Directory Lab](https://github.com/bdlathers/ActiveDirectoryLab)
 
 <h2> 🤳 Connect with me:</h2>
 
